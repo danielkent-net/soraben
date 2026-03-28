@@ -2,19 +2,19 @@
 # Soraben - 3D Printer BentoBox Filter Companion
 
 ![Soraben, fully assembled.](img/full.jpg)                              
-Soraben is a smart device designed to allow automation of a 3D printer filter   
-such as the [BentoBox](https://www.printables.com/model/272525), using an       
-RP2040-based Raspberry Pi Pico (W) microcontroller at its core. Soraben         
-also includes a dedicated connector for a Sensiron SEN6x air quality sensor,    
-enabling both monitoring and automation of the filter, printer, or anything     
-else based on those sensor readins. Soraben also has optional connectors for    
-dual-color LED strips, and a JST-SH Qwiic-compatible connector for attaching    
-additional sensors, all powered through a single 24VDC input. Soraben's         
-firmware is based on ESPHome, allowing its software to be upgraded, extended,   
-and repurposed. 
+Soraben is a smart device designed to allow automation of a 3D printer filter
+such as the [BentoBox](https://www.printables.com/model/272525), using an
+RP2040-based Raspberry Pi Pico (W) microcontroller at its core. Soraben
+also includes a dedicated connector for a Sensiron SEN6x air quality sensor,
+enabling both monitoring and automation of the filter, printer, or anything
+else based on those sensor readins. Soraben also has optional connectors for
+dual-color LED strips, and a JST-SH Qwiic-compatible connector for attaching
+additional sensors, all powered through a single 24VDC input. Soraben's    
+firmware is based on ESPHome, allowing its software to be upgraded, extended,
+and repurposed.
 
-More information on Soraben
-can be found [on my website](https://danielkent.net/projects/posts/20260328-soraben.html).
+More information on Soraben can be found
+[on my website](https://danielkent.net/projects/posts/20260328-soraben.html).
 
 This repository contains the KiCad design files, bill of materials, and 3D
 printable enclosure for Soraben. 
