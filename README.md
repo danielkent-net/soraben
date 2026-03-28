@@ -21,7 +21,9 @@ order at OSH Park, upload `pcb/soraben.kicad_pcb` to the OSH Park website and
 follow their instructions.
 
 For any other PCB fab, download the project files and use KiCad to generate
-the Gerber files required for fabrication.
+the Gerber files required for fabrication. You will need to add the project
+symbols and footprints (both custom and the ki-lime-pi-to-go libraries)
+to your project files.
 
 I strongly suggest ordering a solder stencil and using a PCB reflow oven to
 assemble the board. You can hand solder the through-hole components afterwards.
