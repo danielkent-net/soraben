@@ -175,21 +175,37 @@ type and component value. I also strongly recommend
 This is the order that I used:
 
 U1 (Voltage Converter)
+
 C1 (0.1u 16V)
+
 C7 (0.1u 50V)
+
 C5, C6 (10u 50V)
+
 C2, C3, C8, C9 (22u 16V)
+
 C4 (47u 6.3x7.7)
+
 L1 (Inductor)
+
 Q1 (2-Channel N-MOSFET)
+
 Q2 (1-Channel SOT-323 N-MOSFET)
+
 R1 (30Ω)
+
 R2 (30.9kΩ)
+
 R3, R5, R7, R8 (10kΩ)
+
 R4, R6 (10Ω)
+
 R9, R10, R11, R12 (4.7kΩ)
+
 D1 (24V TVS)
+
 D2 (3v3 TVS)
+
 D3, D4 (Schottky, 0603)
 
 ### Step 4: Peform Reflow Soldering
