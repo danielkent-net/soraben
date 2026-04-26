@@ -21,6 +21,10 @@ printable enclosure for Soraben.
 
 # Making Your Own
 ![Soraben PCB Render](img/render.png)
+
+Detailed fabrication and assembly instructions can be found in
+[`ASSEMBLY.md`](ASSEMBLY.md).
+
 I had my bare Soraben PCBs fabricated at [OSH Park](https://oshpark.com/). To
 order at OSH Park, upload `pcb/soraben.kicad_pcb` to the OSH Park website and
 follow their instructions.
